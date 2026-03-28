@@ -1,0 +1,19 @@
+# Python sanal ortamı (En önemlisi!)
+venv/
+ENV/
+env/
+
+# Python sistem dosyaları
+__pycache__/
+*.py[cod]
+
+# İşletim sistemi çöpleri
+.DS_Store
+Thumbs.db
+
+# Geçici video ve resim dosyaları
+temp_*
+gelen_resim_*
+*.jpg
+*.mp4
+tahmin_1773794294_*
